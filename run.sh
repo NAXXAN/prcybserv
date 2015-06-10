@@ -1,2 +1,3 @@
 #!/bin/bash
-echo	"22"
+echo	"node.js_start"
+node init.js  
